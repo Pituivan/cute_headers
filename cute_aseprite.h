@@ -208,7 +208,7 @@ struct ase_frame_t
 typedef enum ase_animation_direction_t
 {
 	ASE_ANIMATION_DIRECTION_FORWARDS,
-	ASE_ANIMATION_DIRECTION_BACKWORDS,
+	ASE_ANIMATION_DIRECTION_BACKWARDS,
 	ASE_ANIMATION_DIRECTION_PINGPONG,
 } ase_animation_direction_t;
 
